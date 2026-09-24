@@ -296,10 +296,8 @@ Dashboard.pbix
 ```
 
 A PNG preview is also included:
+<img width="1476" height="801" alt="Dashboard" src="https://github.com/user-attachments/assets/c360cca4-75a3-4857-9852-419fd25a3438" />
 
-```text
-Dashboard.png
-```
 
 \---
 
